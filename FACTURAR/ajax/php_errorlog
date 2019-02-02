@@ -1,0 +1,108 @@
+[07-Dec-2018 09:14:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURA/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURA/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:16:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURA/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURA/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:18:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:18:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:19:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php on line 159
+[07-Dec-2018 09:19:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:19:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:19:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:20:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_usuarios.php:129
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_usuarios.php on line 129
+[07-Dec-2018 09:20:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 09:20:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php on line 159
+[07-Dec-2018 09:21:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php on line 159
+[07-Dec-2018 09:21:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[07-Dec-2018 10:23:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[10-Dec-2018 08:10:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[10-Dec-2018 08:10:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[10-Dec-2018 08:22:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[10-Dec-2018 08:51:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 165
+[12-Dec-2018 11:12:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 158
+[12-Dec-2018 11:13:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php:159
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_productos.php on line 159
+[12-Dec-2018 11:14:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 158
+[12-Dec-2018 11:15:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 158
+[12-Dec-2018 11:15:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 158
+[12-Dec-2018 11:16:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 158
+[12-Dec-2018 11:16:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:158
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 158
+[12-Dec-2018 11:18:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 160
+[12-Dec-2018 11:18:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function paginate() in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/alinaadl/public_html/stock/FACTURAR/ajax/buscar_facturas.php on line 160
