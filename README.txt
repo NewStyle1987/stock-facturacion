@@ -23,3 +23,7 @@ https://www.youtube.com/watch?v=emaZC6eKe3M
  https://www.youtube.com/watch?v=AKYBv92qpFc&t=6s
  
 Actualmente me enfoco en la sincronización de datos con prestashop cms, me falta aún insertad artículos desde la base de datos y eliminarlos desde la base de datos... espero prontamente poder terminarlo. Video: https://www.youtube.com/watch?v=emaZC6eKe3M
+
+- - - - - - - - - - - 
+
+再见!!
